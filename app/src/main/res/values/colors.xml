@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00c853</color>
+    <color name="colorPrimaryDark">#01ae49</color>
+    <color name="colorAccent">#00c853</color>
+
+    <color name="profile_name_color">#fff</color>
+    <color name="profile_roll_color">#fff</color>
+    <color name="profile_dinger_color">#fff</color>
+    <color name="of_text1">#000</color>
+    <color name="of_item_count">#0023e9</color>
+    <color name="order_text">#34c200</color>
+    <color name="order_items_count">#0088dc</color>
+    <color name="order_items_count_text_color">#fff</color>
+    <color name="view_line">#000</color>
+    <color name="text_hint">#949494</color>
+    <color name="text_price">#ff0000</color>
+    <color name="warning">#ff0000</color>
+</resources>

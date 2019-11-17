@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "758913777889",
+    "firebase_url": "https://dinger-f9409.firebaseio.com",
+    "project_id": "dinger-f9409",
+    "storage_bucket": "dinger-f9409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758913777889:android:9ee9bd4fa105a4fc",
+        "android_client_info": {
+          "package_name": "student.ucsy.dinger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758913777889-5bfgifs7dpjduh7n0vigc4maf9scbe9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "student.ucsy.dinger",
+            "certificate_hash": "a740502ed726f446e002f0b2eb05e25786e4774f"
+          }
+        },
+        {
+          "client_id": "758913777889-d4lc5ko1f686l7bttu2vo3b8v700fh5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4351obDbU0WLLUSwdJRHn8TA4QnfCxJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758913777889-d4lc5ko1f686l7bttu2vo3b8v700fh5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758913777889:android:b3aab7cc5b5da47d",
+        "android_client_info": {
+          "package_name": "com.wematch.amk.dingerreal1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758913777889-fpir0n8chcf8p17ubh7576ig1tb2bb6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wematch.amk.dingerreal1",
+            "certificate_hash": "b1275a11b2aba0ecd09f2c8bf3b3b1bcea15f304"
+          }
+        },
+        {
+          "client_id": "758913777889-d4lc5ko1f686l7bttu2vo3b8v700fh5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4351obDbU0WLLUSwdJRHn8TA4QnfCxJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758913777889-d4lc5ko1f686l7bttu2vo3b8v700fh5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758913777889:android:1831a66cef4b4143",
+        "android_client_info": {
+          "package_name": "student.ucsy.shopkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758913777889-jaj3252ij57lful1tn37kh504g2akgv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "student.ucsy.shopkeeper",
+            "certificate_hash": "a740502ed726f446e002f0b2eb05e25786e4774f"
+          }
+        },
+        {
+          "client_id": "758913777889-d4lc5ko1f686l7bttu2vo3b8v700fh5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4351obDbU0WLLUSwdJRHn8TA4QnfCxJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758913777889-d4lc5ko1f686l7bttu2vo3b8v700fh5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
